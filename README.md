@@ -32,7 +32,7 @@ uvicorn dm:app --reload
 ## Run the frontend
 
 ```bash
-streamlit run frontend.py
+streamlit run pdf.py
 ```
 
 ## Project Structure
